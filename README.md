@@ -1,4 +1,4 @@
-# Hi there 👋
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
 <!--
 **EChristian48/echristian48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
