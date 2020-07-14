@@ -1,16 +1,14 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+# Praise the Sun! ☀️
 
-<!--
-**EChristian48/echristian48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Soulsborne fans even though I've never played Demon Souls and Bloodborne.
 
-Here are some ideas to get you started:
+I love Web and Hybrid App development, but I also like doing other things too. Here are a few:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Data Science, It's fun playing with data. (At the cost of 90% if my brainpower)
+1. Game Development using Unity, because I love games
+1. Cyber Security, installed ParrotSec and did nothing after that
+
+Currently I'm a student at SMK Wikrama Bogor.  
+But who knows what will happens next.
+
+May the dark sigils guide thee. 🗡️
