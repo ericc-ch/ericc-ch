@@ -12,3 +12,8 @@ Currently I'm a student at SMK Wikrama Bogor.
 But who knows what will happens next.
 
 May the dark sigils guide thee. 🗡️
+
+![Ciaran is cute!](https://pbs.twimg.com/media/EXPXJ66UMAEXiQ8?format=png&name=900x900)
+Source: [바쁜 노루](https://twitter.com/DoNar0217)
+
+Go follow him/her. he/she makes great fanarts.
