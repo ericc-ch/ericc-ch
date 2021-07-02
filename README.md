@@ -13,4 +13,4 @@ But who knows what will happens next.
 
 May the dark sigils guide thee. 🗡️
 
-<script> console.log('Hello') </script>
+![DARK SOULS III ending](https://media1.tenor.com/images/1f606c89e11905066426acbee623a078/tenor.gif)
