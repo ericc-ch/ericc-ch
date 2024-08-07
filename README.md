@@ -1,6 +1,6 @@
 # Praise the Sun! ☀️
 
-[Website](https://ericc-ch.github.io)
+[Website](https://ericc-ch.github.io) / [LinkedIn](https://www.linkedin.com/in/erick-christian-p) / [YouTube](https://www.youtube.com/@erickchristian2)
 
 A Soulsborne fans even though I've never played Demon Souls and Bloodborne.
 
