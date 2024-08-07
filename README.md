@@ -1,10 +1,8 @@
 # Praise the Sun! ☀️
 
+[Website](https://ericc-ch.github.io)
+
 A Soulsborne fans even though I've never played Demon Souls and Bloodborne.
-
-I will be linking my personal website here later...
-
-Y'know, I'm some sort of a Web Dev myself.
 
 May the dark sigils guide thee. 🗡️
 
