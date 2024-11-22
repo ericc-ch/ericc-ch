@@ -4,8 +4,7 @@
 
 ---
 
-A Soulsborne fans even though I've never played Demon Souls and Bloodborne.
+Hi, I'm Erick
+This is me yapping about how I won't be replaced by LLM
 
-May the dark sigils guide thee. 🗡️
-
-![DARK SOULS III ending](https://media1.tenor.com/images/1f606c89e11905066426acbee623a078/tenor.gif)
+![DARK SOULS III ending](https://media1.tenor.com/m/pzW5jvt-sr8AAAAd/pop-cat-cat.gif)
