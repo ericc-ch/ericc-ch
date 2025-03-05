@@ -9,3 +9,5 @@ Hi, I'm Erick
 This is me yapping about how I won't be replaced by LLM
 
 ![DARK SOULS III ending](https://media1.tenor.com/m/pzW5jvt-sr8AAAAd/pop-cat-cat.gif)
+
+![clock]('./clock.svg')
