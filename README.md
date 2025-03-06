@@ -237,7 +237,7 @@ CLI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   </tr>
 </table>
 
-<table width="80%" cellpadding="5" align="center">
+<table width="80%" cellpadding="5" align="center" bgcolor="white" >
   <tr valign="top">
     <td width="20%">
       <b>Products</b>
