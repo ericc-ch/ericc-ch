@@ -1,5 +1,3 @@
-# Praise the Sun! ☀️
-
 [Website](https://ericc-ch.github.io) / [LinkedIn](https://www.linkedin.com/in/erick-christian-p)
 
 ---
