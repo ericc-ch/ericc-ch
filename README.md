@@ -16,6 +16,6 @@ Looking at you, yes you, Evan You
 
 and Anthony Fu
 
-and Douglas Wreden (Not an open source maintainer)
+and Douglas Wreden (Sort of an open source maintainer)
 
 ![DougDoug Approved](./dougdoug-approved.gif)
