@@ -6,11 +6,15 @@
 
 Hi, I'm Erick
 
-I love open source and JavaScript!
+I love open source and the web platform!
 
-Currently learning Go just so I can use [Charm stack](https://charm.sh)
+~Currently learning Go just so I can use [Charm stack](https://charm.sh)~
 
-Here hoping I can be a full time open source maintainer :)
+Currently bashing my head against the wall trying to wrap my head around [Effect](https://effect.website)
+
+---
+
+Here's hoping I can be a full time open source maintainer :)
 
 Looking at you, yes you, Evan You
 
