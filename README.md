@@ -2,7 +2,9 @@
 
 ---
 
-(sort of) r/place, click to interact!
+## (sort of) r/place
+
+click to interact!
 
 Select a color:
 
@@ -14,7 +16,7 @@ Currently selected:
 
 <a href="https://github-place.val.run/paint?x=0&amp;y=0&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=0&amp;y=0" width="40"/></a><a href="https://github-place.val.run/paint?x=1&amp;y=0&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=1&amp;y=0" width="40"/></a><a href="https://github-place.val.run/paint?x=2&amp;y=0&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=2&amp;y=0" width="40"/></a><a href="https://github-place.val.run/paint?x=3&amp;y=0&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=3&amp;y=0" width="40"/></a><br/><a href="https://github-place.val.run/paint?x=0&amp;y=1&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=0&amp;y=1" width="40"/></a><a href="https://github-place.val.run/paint?x=1&amp;y=1&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=1&amp;y=1" width="40"/></a><a href="https://github-place.val.run/paint?x=2&amp;y=1&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=2&amp;y=1" width="40"/></a><a href="https://github-place.val.run/paint?x=3&amp;y=1&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=3&amp;y=1" width="40"/></a><br/><a href="https://github-place.val.run/paint?x=0&amp;y=2&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=0&amp;y=2" width="40"/></a><a href="https://github-place.val.run/paint?x=1&amp;y=2&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=1&amp;y=2" width="40"/></a><a href="https://github-place.val.run/paint?x=2&amp;y=2&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=2&amp;y=2" width="40"/></a><a href="https://github-place.val.run/paint?x=3&amp;y=2&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=3&amp;y=2" width="40"/></a><br/><a href="https://github-place.val.run/paint?x=0&amp;y=3&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=0&amp;y=3" width="40"/></a><a href="https://github-place.val.run/paint?x=1&amp;y=3&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=1&amp;y=3" width="40"/></a><a href="https://github-place.val.run/paint?x=2&amp;y=3&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=2&amp;y=3" width="40"/></a><a href="https://github-place.val.run/paint?x=3&amp;y=3&amp;redirect=https%3A%2F%2Fgithub.com%2Fericc-ch"><img src="https://github-place.val.run/pixel?x=3&amp;y=3" width="40"/></a><br/>
 
-Not updating? Click [here](https://camocide.val.run/?repos=ericc-ch/ericc-ch&redirect=https://github.com/ericc-ch) to purge [GitHub's camo](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls#removing-an-image-from-camos-cache)
+Not updating? Click [here](https://camocide.val.run/?repos=ericc-ch/ericc-ch&redirect=https://github.com/ericc-ch) to purge GitHub's camo ([docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls#removing-an-image-from-camos-cache))
 
 ---
 
