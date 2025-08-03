@@ -41,6 +41,3 @@ and Anthony Fu
 and Douglas Wreden (Sort of an open source maintainer)
 
 ![DougDoug Approved](./dougdoug-approved.gif)
-
-<a href="https://github-place.val.run/paint?x=7&y=7"><img src="https://github-place.val.run/pixel?x=7&y=7" width="40px"></a>
-<br>
