@@ -28,7 +28,9 @@ I love open source and the web platform!
 
 ~Currently learning Go just so I can use [Charm stack](https://charm.sh)~
 
-Currently bashing my head against the wall trying to wrap my head around [Effect](https://effect.website)
+~Currently bashing my head against the wall trying to wrap my head around [Effect](https://effect.website)~
+
+Currently building a [browser](https://github.com/ericc-ch/tinybrowser)
 
 ---
 
